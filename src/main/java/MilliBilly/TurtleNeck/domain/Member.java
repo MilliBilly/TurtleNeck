@@ -1,4 +1,4 @@
-package MilliBilly.TurtleNeck.entity;
+package MilliBilly.TurtleNeck.domain;
 
 import lombok.Getter;
 import lombok.Setter;

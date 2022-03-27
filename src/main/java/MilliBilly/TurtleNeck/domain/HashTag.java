@@ -1,4 +1,4 @@
-package MilliBilly.TurtleNeck.entity;
+package MilliBilly.TurtleNeck.domain;
 
 public class HashTag {
 
